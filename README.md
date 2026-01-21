@@ -7,6 +7,7 @@ A collection of small Python learning exercises, utilities, and mini assignments
 - List and dictionary operations
 - File handling and CSV reading
 - Small automation and mini-games
+- OOPs
 
 ## Notes
 Some scripts include multiple test sections or commented parts — kept intentionally for learning reference.
